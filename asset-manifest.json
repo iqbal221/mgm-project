@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mgm-project/static/css/main.d030432a.css",
+    "main.js": "/mgm-project/static/js/main.71ab9d67.js",
+    "static/media/image1.jpg": "/mgm-project/static/media/image1.160cb62153be04485d7a.jpg",
+    "static/media/pic3.jpg": "/mgm-project/static/media/pic3.70662043727b858fbac9.jpg",
+    "static/media/pic4.jpg": "/mgm-project/static/media/pic4.332ff7b2c4c686530c97.jpg",
+    "static/media/pic.jpg": "/mgm-project/static/media/pic.16401e1e9c8405b8c113.jpg",
+    "static/media/pic9.jpg": "/mgm-project/static/media/pic9.3c9753783afb76e81823.jpg",
+    "static/media/image2.jpg": "/mgm-project/static/media/image2.16c1ae57e15e123bd763.jpg",
+    "static/media/pic2.jpg": "/mgm-project/static/media/pic2.ebaca0b630df16ca5fbb.jpg",
+    "static/media/pic1.jpg": "/mgm-project/static/media/pic1.fa80bd0be5629d2b05b9.jpg",
+    "static/media/image3.jpg": "/mgm-project/static/media/image3.8edad7d0931c6d7cef15.jpg",
+    "static/media/pic6.jpg": "/mgm-project/static/media/pic6.0ce1ad9a87877cd49f96.jpg",
+    "static/media/pic8.jpg": "/mgm-project/static/media/pic8.99935a13df05b08905c0.jpg",
+    "static/media/pic7.jpg": "/mgm-project/static/media/pic7.add845f0d6475cf6636f.jpg",
+    "static/media/pic5.jpg": "/mgm-project/static/media/pic5.2de402316ea1b038ac33.jpg",
+    "static/media/logo.jpg": "/mgm-project/static/media/logo.e6dce3d7efc0a0139ef6.jpg",
+    "index.html": "/mgm-project/index.html",
+    "main.d030432a.css.map": "/mgm-project/static/css/main.d030432a.css.map",
+    "main.71ab9d67.js.map": "/mgm-project/static/js/main.71ab9d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d030432a.css",
+    "static/js/main.71ab9d67.js"
+  ]
+}
