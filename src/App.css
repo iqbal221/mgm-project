@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800&display=swap');
+
+html{
+  width:100%;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Abril Fatface', serif;
+}
+
+
+.phone{
+  transition: 0.5s;
+  color:white;
+  font-size: 16px;
+}
+
+.phone:hover{
+  color:yellow;
+  cursor:pointer;
+}
+
+.contact-us{
+  transition: 0.5s;
+  color:white;
+  text-decoration: none;
+  font-size:14px;
+}
+
+.contact-us:hover{
+  color:black;
+}
+
+/* Navbar */
+
+nav{
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2)  ;
+}
+
+.logo{
+  width:38px;
+  height:38px;
+  margin-right:3px;
+}
+
+.slogan{
+  font-size:10px; 
+  font-family: 'Lobster', cursive;
+}
+
+.companyName{
+  font-family: 'Abril Fatface', serif;
+}
+
+.nav-link{
+  font-family: 'Chivo', sans-serif;
+  font-weight: 300;
+}
+
+
+.header1-image{
+  background-image: url('./Components/Home/Home-image/image2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:100px;
+  font-size:50px;
+  color:white;
+  font-weight: bold;
+}
+
+.carousel-item  img{
+  height:600px;
+}
+
+.carousel-caption h1{
+  padding-bottom:165px;
+}
+
+
+
+
+
+/* Exclusive Work */
+.headline{
+  letter-spacing: 3px;
+}
+
+
+.underline{
+  border-bottom: 3px solid orange;
+  width:200px;
+  margin:auto;
+  margin-bottom:30px;
+}
+
+.exclusiveCard{
+  height:450px;
+  transition: .5s;
+}
+
+.exclusiveCard .card-body{
+  background-color: #EFF1DB;
+}
+
+.exclusiveCard img{
+  height:350px;
+}
+
+.exclusiveCard:hover{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0, 0.3);
+  cursor:pointer;
+}
+
+/* Article */
+.article{
+  background:#F9F1F0;
+}
+.articleCard p{
+  text-align: justify;
+  color:#555;
+}
+
+.articleCard img{
+  width:100%;
+  height:520px;
+  margin:auto;
+  display: flex;
+  justify-content: center;
+}
+/* Our Projects */
+
+.projectCard{
+  height:520px;
+  transition: .3s;
+}
+
+.projectCard img{
+  height:390px;
+}
+
+.projectCard:hover{
+  background-color: #ECF87F;
+  cursor:pointer;
+}
+
+.projectCard:hover .btn{
+  background-color: rgb(84, 84, 240);
+  border-color: rgb(84, 84, 240);
+  color:white;
+}
+
+.projectCard h3{
+  color:#3CACAE
+}
+.projectCard:hover h3{
+  color:#555;
+}
+
+/* phone */
+.phoneCard{
+  height: 150px;
+}
+
+.phoneCard .btn{
+  width:300px;
+}
+
+/* Contact */
+
+
+.ContactCard{
+  width:100%;
+  height:400px;
+  color:green;
+  text-align: center;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2) , 0px 6px 20px 0px rgb(0,0,0,0.19)  ;
+  cursor:pointer;
+  margin:auto;
+  transition:.5s;
+}
+
+.ContactCard:hover{
+  background:#4ca7fc;
+  color:white;
+}
+
+.ContactCard:hover p  {
+  color:#ECF87F;
+}
+
+.contact-image img{
+  height:470px;
+  width:100%;
+}
+
+.contactForm textarea{
+  background: #d4d3d3;
+}
+
+.contactFormCard input{
+  background: #d4d3d3;
+ 
+}
+/* About */
+.about-us{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}
+
+.about-us .card{
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+
+.about-us img{
+  width:100%;
+  height:380px;
+}
+
+hr{
+  margin-top: 200px;
+}
+
+/* Chittagong project */
+
+
+.chittagongCard {
+  height:450px;
+  width:500px;
+}
+
+.chittagongCard img{
+  height:100%;
+  width:100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+  transition:.6s;
+}
+
+.chittagongCard img:hover{
+  transform: scaleY(1.1);
+  cursor:pointer;
+}
+
+
+/* Footer */
+
+
+.footer{
+  background:#203040;
+  color:#ffffff;
+  padding:25px;
+}
+
+.footer h4{
+ margin: 25px 0;
+}
+
+.about h4{
+  color:yellow;
+}
+.about p{
+  text-align: justify;
+  cursor: pointer;
+  font-size:16px;
+}
+
+.menu{
+  padding: left 200px;
+  cursor:pointer;
+}
+
+.menu h4{
+  color:yellow;
+}
+
+.menu p a{
+  color:white;
+  text-decoration: none;
+  font-size: 18px;
+}
+.menu p a:hover{
+  color:yellow;
+}
+
+.social-icon{
+  border: 1px solid white;
+  width:25px;
+  height:25px;
+  padding:5px;
+  border-radius: 50%;
+  background-color:white;
+  color:#203040;
+  transition:0.3s;
+}
+
+.social-icon:hover{
+  background-color: yellow;
+  border: 1px solid yellow;
+}
+
+.social h4{
+  color:yellow;
+}
+
+.copyright{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
