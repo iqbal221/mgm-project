@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mgm-project/static/css/main.d030432a.css",
-    "main.js": "/mgm-project/static/js/main.71ab9d67.js",
+    "main.css": "/mgm-project/static/css/main.3f45d05b.css",
+    "main.js": "/mgm-project/static/js/main.b154a47b.js",
     "static/media/image1.jpg": "/mgm-project/static/media/image1.160cb62153be04485d7a.jpg",
     "static/media/pic3.jpg": "/mgm-project/static/media/pic3.70662043727b858fbac9.jpg",
     "static/media/pic4.jpg": "/mgm-project/static/media/pic4.332ff7b2c4c686530c97.jpg",
@@ -17,11 +17,11 @@
     "static/media/pic5.jpg": "/mgm-project/static/media/pic5.2de402316ea1b038ac33.jpg",
     "static/media/logo.jpg": "/mgm-project/static/media/logo.e6dce3d7efc0a0139ef6.jpg",
     "index.html": "/mgm-project/index.html",
-    "main.d030432a.css.map": "/mgm-project/static/css/main.d030432a.css.map",
-    "main.71ab9d67.js.map": "/mgm-project/static/js/main.71ab9d67.js.map"
+    "main.3f45d05b.css.map": "/mgm-project/static/css/main.3f45d05b.css.map",
+    "main.b154a47b.js.map": "/mgm-project/static/js/main.b154a47b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d030432a.css",
-    "static/js/main.71ab9d67.js"
+    "static/css/main.3f45d05b.css",
+    "static/js/main.b154a47b.js"
   ]
 }
