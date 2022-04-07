@@ -132,6 +132,7 @@ nav{
 .articleCard p{
   text-align: justify;
   color:#555;
+  font-style: italic;
 }
 
 .articleCard img{
@@ -221,6 +222,10 @@ nav{
   justify-content: center;
   align-items: center;
   text-align: justify;
+}
+
+.about-us p{
+  font-style: italic;
 }
 
 .about-us .card{
